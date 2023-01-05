@@ -39,3 +39,23 @@ Mir 2 WIKI - http://wiki.mironline.co.uk/Main_Page
 Crystal Mir2 Tutorials - https://www.lomcn.org/forum/forums/crystalm2-tutorials.634/
 
 Source code - https://github.com/suprcode/mir2
+
+附：
+
+目前整理出来的待翻译内容在以下路径里，如有发现随时补充
+
+/Jev/Envir/NPCs 该路径下包含所有NPC配置【这里包含大量文本，可以按地图分工作量】
+
+/Jev/Envir/Quests 该路径下包含所有任务配置【这里包含大量文本，可以按地图分工作量】
+
+/Jev/Envir/Events 该路径下包含所有事件触发通知配置【这里文本量不多】
+
+/Jev/Configs/Language.ini 该文件有部分系统警告配置【这里文本量不多】
+
+/Jev/Configs/WorldMap.ini 该文件有一些世界地图区域配置【这里文本量不多】
+
+客户端部分就repo主自己全部承包翻译掉了，基本都是些UI说明之类的文案
+
+还有一些客户端UI里的图片文案需要用LibraryEditor.exe来改图，暂时没打算搞
+
+P.S. 怎么没找到技能面板和技能相关的文案？！算了，让玩家看国服职业百科玩也行，重要的是NPC对话，任务描述和物品描述。物品描述也没找到在哪设置啊！ ——————2023.1.6
