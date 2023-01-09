@@ -61,6 +61,9 @@ Source code - https://github.com/suprcode/mir2
 P.S. 怎么没找到技能面板和技能相关的文案？！算了，让玩家看国服职业百科玩也行，重要的是NPC对话，任务描述和物品描述。物品描述也没找到在哪设置啊！ ——————2023.1.6
 
 # 如何寻找待翻译文本
+
 1. #SAY #ELSESAY 下面一句话通常是要翻译的
 2. 什么什么Message "xxxxxxx" Hint  xxxxx部分需要翻译 有LocalMessage
 3. 什么什么MESSAGE "xxxxxx" Hint xxxxxx部分需要翻译 有LINEMESSAGE GLOBALMESSAGE
+4. @Description下面的文本也是需要翻译的
+注意：类似You gained {count} items 这样的文本花括号里面的东西通常是绑定程序变量的，不能动
