@@ -66,4 +66,6 @@ P.S. 怎么没找到技能面板和技能相关的文案？！算了，让玩家
 2. 什么什么Message "xxxxxxx" Hint  xxxxx部分需要翻译 有LocalMessage
 3. 什么什么MESSAGE "xxxxxx" Hint xxxxxx部分需要翻译 有LINEMESSAGE GLOBALMESSAGE
 4. @Description下面的文本也是需要翻译的
+
+
 注意：类似You gained {count} items 这样的文本花括号里面的东西通常是绑定程序变量的，不能动
